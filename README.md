@@ -2,6 +2,8 @@
 
 Este é um projeto de análise de dados do Campeonato Brasileiro de 2008 usando Python e bibliotecas como BeautifulSoup e Pandas. O objetivo principal é extrair informações da tabela de classificação e estatísticas dos jogos do São Paulo Futebol Clube durante a temporada.
 
+Fonte: https://www.arqtricolor.com/memorial/campeonato-brasileiro-2008/
+
 ## Pré-requisitos
 
 Antes de executar o projeto, você precisará instalar as seguintes bibliotecas Python:
